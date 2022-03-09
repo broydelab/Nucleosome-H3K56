@@ -19,4 +19,4 @@ are also provided. * = Lesion-H3K56ac,H3K56
 ## Note 
 * Lesion: a well-repaired cis-B[a]P-dG adduct.
 * Water molecules and ions are not included in all files. 
-* The trajectories were saved every 10 ns in *-1.nc to *-5.nc for each system. 
+* The trajectories were saved every 10 ns in *-1.nc to *-5.nc for each system.  * = Lesion-H3K56ac,H3K56
