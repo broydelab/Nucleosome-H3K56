@@ -17,10 +17,7 @@ a corresponding topology PRMTOP files, *.top, and the coordinates of the initial
 are also provided. * = Lesion-H3K56ac,H3K56
 
 ## Note 
+* Lesion: a well-repaired cis-B[a]P-dG adduct.
 * Water molecules and ions are not included in all files. 
 * The trajectories were saved every 20 ns; trajectories between 0 to 2.5 µs are saved in *1.nc and 
 between 2.5 to 5.0 µs are saved in *2.nc for each system. 
-
-
-## Note
-* Lesion: a well-repaired cis-B[a]P-dG adduct.
